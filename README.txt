@@ -1,0 +1,1 @@
+JAMWAY Group of Hotels & Resorts website. Multi-page responsive static site with Resort, Safari, About, Reviews, Gallery, FAQ and Policies pages. Enquiries open WhatsApp to +91 83028 91147. Established 2026. Replace property-specific placeholders/details with the client-approved information before launch.
